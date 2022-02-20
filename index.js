@@ -16,6 +16,6 @@ console.log("before")
 await prom()
 console.log("after 5000s")
 
-import fn2 from "./lib.js"
+import fn2 from "./lib"
 
 fn2()
