@@ -1,0 +1,7 @@
+[
+  { "id": 1, "title": "Bicicleta Trex", "price": 1200 },
+  { "id": 2, "title": "Xbox One Series X", "price": 800 },
+  { "id": 3, "title": "Star Wars Lego", "price": 150 },
+  { "id": 4, "title": "Samsung TV", "price": 900 },
+  { "id": 5, "title": "Laptop Lenovo", "price": 2000 }
+]
